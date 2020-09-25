@@ -22,6 +22,6 @@ public class Factorial {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println("!19 is " + factorial(19));
+		System.out.println("!20 is " + factorial(20));
 	}
 }

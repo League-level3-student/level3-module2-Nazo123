@@ -26,6 +26,5 @@ public class StringTrimmer {
 		assertEquals("League", trimString("LeagueOfAmazing!", 10));
 		assertEquals("James", trimString("JamesTheIntern", 9));
 		assertEquals("", trimString("TheWholeWord", 12));
-		System.out.println("test");
 	}
 }
